@@ -270,17 +270,13 @@
   color: #fff;
 }
 
-.yearInReview-section {
+.year-in-review-section {
   padding-top: 10rem;
   background: linear-gradient(to bottom, rgba(22, 22, 22, 0.3) 0%, rgba(22, 22, 22, 0.7) 75%, #161616 100%), url("../img/bg-signup.jpg");
 }
 
-.yearInReview-section p {
+.year-in-review-section p {
   margin-bottom: 5rem;
-}
-
-.yearInReview-section .profile-pic {
-  border-radius: 200px;
 }
 
 body {

@@ -1,10 +1,7 @@
-.yearInReview-section {
+.year-in-review-section {
   padding-top: 10rem;
   background: linear-gradient(to bottom, #{fade-out($black, .7)} 0%,#{fade-out($black, .3)} 75%,$black 100%), url('../img/bg-signup.jpg');
   p {
     margin-bottom: 5rem;
-  }
-  .profile-pic {
-    border-radius: 200px;
   }
 }
